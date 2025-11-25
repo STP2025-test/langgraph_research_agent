@@ -1,9 +1,3 @@
-Great — here is a **clean, professional, production-ready README.md** for your **LangGraph Research Assistant Agent**.
-
-You can copy-paste this directly into your GitHub repo as `README.md`.
-
----
-
 # 🚀 LangGraph Research Assistant Agent
 
 A fully functional **AI Research Assistant** built using **LangGraph**, **LangChain**, and **OpenAI**.
