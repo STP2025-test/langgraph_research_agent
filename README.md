@@ -172,7 +172,7 @@ print(response["messages"][-1].content)
 
 ## 🧑‍💻 Author
 
-Built by **Sai Teja Pagidoju** as an end-to-end demo of LangGraph agent workflows.
+Built by **Sai Sujith** as an end-to-end demo of LangGraph agent workflows.
 
 ---
 
